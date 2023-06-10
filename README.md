@@ -2,7 +2,9 @@
 
 ![example workflow](https://github.com/cpit252/lab-5-TareqB1/actions/workflows/classroom.yml/badge.svg)
 
-Testing
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/TareqB1/lab-05-vid/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/TareqB1/lab-05-vid/tree/main)
+
+Testing..
 
 Question: Explain how the adapter design pattern binds the client to an interface not a concrete implementation??
 
