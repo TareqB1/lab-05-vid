@@ -2,6 +2,8 @@
 
 ![example workflow](https://github.com/cpit252/lab-5-TareqB1/actions/workflows/classroom.yml/badge.svg)
 
+Testing
+
 Question: Explain how the adapter design pattern binds the client to an interface not a concrete implementation??
 
 Answer:     The client code doesn’t get coupled to the concrete adapter class as long as it works with the adapter via the client interface.
