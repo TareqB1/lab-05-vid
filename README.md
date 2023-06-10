@@ -4,10 +4,11 @@
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/TareqB1/lab-05-vid/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/TareqB1/lab-05-vid/tree/main)
 
-Testing..
+[![codecov](https://codecov.io/gh/TareqB1/lab-05-vid/branch/main/graph/badge.svg?token=TSI0WUIDH4)](https://codecov.io/gh/TareqB1/lab-05-vid)
+
 
 Question: Explain how the adapter design pattern binds the client to an interface not a concrete implementation??
 
-Answer:     The client code doesn’t get coupled to the concrete adapter class as long as it works with the adapter via the client interface.
+Answer:.    The client code doesn’t get coupled to the concrete adapter class as long as it works with the adapter via the client interface.
             Thanks to this, you can introduce new types of adapters into the program without breaking the existing client code. This can be useful when the interface of the service class gets changed or replaced,
             you can just create a new adapter class without changing the client code.
